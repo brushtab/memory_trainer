@@ -1,1 +1,1 @@
-python app.py 40
+python app.py 12
